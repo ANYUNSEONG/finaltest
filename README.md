@@ -13,7 +13,7 @@
 
 ## 완성 작품
 ### 작품 회로도
-
+![회로도](https://github.com/ANYUNSEONG/finaltest/assets/131340804/c7ec37ae-175b-473c-ba69-afac3c10b5d4)
 ### 작품 사진
 
 ## 동작 시나리오 및 예시
