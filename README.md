@@ -16,7 +16,7 @@
 ### 작품 회로도
 ![회로도](https://github.com/ANYUNSEONG/finaltest/assets/131340804/c7ec37ae-175b-473c-ba69-afac3c10b5d4)
 ### 작품 사진
-
+![20230608_131855](https://github.com/ANYUNSEONG/finaltest/assets/131340804/74222898-ce80-4f33-b507-9a6a689ffe7b)
 ## 동작 시나리오 및 예시
 1. MQTT로 알람을 설정한다.
 - 알람의 유형(중요한 알람, 간단한 알림 중 택1)을 정한다.
